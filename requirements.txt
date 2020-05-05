@@ -1,9 +1,6 @@
 flask
 flask_wtf
-wtforms
 json
-datetime
 flask_login
 flask_restful
 sqlalchemy
-werkzeug.security
