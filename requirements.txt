@@ -1,6 +1,5 @@
 flask
 flask_wtf
-json
 flask_login
 flask_restful
 sqlalchemy
